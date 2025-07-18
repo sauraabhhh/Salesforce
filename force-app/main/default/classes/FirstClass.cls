@@ -35,4 +35,8 @@ public with sharing class FirstClass {
         public Integer A;
         Public String name;
     }
+
+    public class inn{
+        private String name;
+    }
 }
