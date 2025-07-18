@@ -5,7 +5,7 @@ public with sharing class FirstClass {
             System.debug('hie');
         }
         System.debug('pushing it on git hub');
-        System.debug('welcoming mac');
+        System.debug('welcoming windows');
     }
 
     public static void result(){
@@ -21,7 +21,7 @@ public with sharing class FirstClass {
 
     public void checkFolk(){
         System.debug('hello world');
-        System.debug('check on mac');
+        System.debug('check on windows');
     }
 
     public void feature(){
