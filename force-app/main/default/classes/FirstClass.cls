@@ -33,5 +33,6 @@ public with sharing class FirstClass {
 
     public class InnerClass{
         public Integer A;
+        Public String name;
     }
 }
