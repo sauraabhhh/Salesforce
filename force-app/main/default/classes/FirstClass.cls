@@ -30,4 +30,8 @@ public with sharing class FirstClass {
             System.debug('new pull request');
         }
     }
+
+    public class InnerClass{
+        public Integer A;
+    }
 }
