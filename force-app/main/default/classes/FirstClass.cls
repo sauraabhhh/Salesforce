@@ -16,4 +16,6 @@ public with sharing class FirstClass {
     }
 
     Private Integer j=9;
+
+    Protected String name='Saurabh';
 }
