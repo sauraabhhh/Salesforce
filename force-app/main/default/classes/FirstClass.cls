@@ -23,4 +23,11 @@ public with sharing class FirstClass {
         System.debug('hello world');
         System.debug('check on mac');
     }
+
+    public void feature(){
+        System.debug('hello friends');
+        for(integer i=0;i<5;i++){
+            System.debug('new pull request');
+        }
+    }
 }
