@@ -7,4 +7,11 @@ public with sharing class FirstClass {
         System.debug('pushing it on git hub');
         System.debug('welcoming mac');
     }
+
+    public static void result(){
+        System.debug('hello world');
+        for(Integer i=10;i<30;i++){
+            System.debug('hello');
+        }
+    }
 }
