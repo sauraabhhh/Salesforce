@@ -18,4 +18,9 @@ public with sharing class FirstClass {
     Private Integer j=9;
 
     Protected String name='Saurabh';
+
+    public void checkFolk(){
+        System.debug('hello world');
+        System.debug('check on mac');
+    }
 }
