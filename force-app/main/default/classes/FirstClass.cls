@@ -38,5 +38,6 @@ public with sharing class FirstClass {
 
     public class inn{
         public Boolean bol;
+        public Boolean ball;
     }
 }
