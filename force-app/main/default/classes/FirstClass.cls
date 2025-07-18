@@ -14,4 +14,6 @@ public with sharing class FirstClass {
             System.debug('hello');
         }
     }
+
+    Private Integer j=9;
 }
