@@ -5,5 +5,6 @@ public with sharing class FirstClass {
             System.debug('hie');
         }
         System.debug('pushing it on git hub');
+        System.debug('welcoming windows');
     }
 }
