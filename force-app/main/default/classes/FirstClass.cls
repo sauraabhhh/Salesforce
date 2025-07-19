@@ -6,4 +6,11 @@ public with sharing class FirstClass {
         }
         System.debug('pushing it on git hub');
     }
+
+    public void feature(){
+        for(Integer i=0;i<5;i++){
+            System.debug('hello introduce new feature');
+            System.debug('welcome');
+        }
+    }
 }
