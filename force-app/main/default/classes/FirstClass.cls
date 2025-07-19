@@ -5,6 +5,10 @@ public with sharing class FirstClass {
             System.debug('hie');
         }
         System.debug('pushing it on git hub');
+
+        for(Integer i=0;i<3;i++){
+            System.debug('welcome to the world of science');
+        }
     }
 
     public void feature(){
