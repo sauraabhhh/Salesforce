@@ -14,7 +14,11 @@ public with sharing class FirstClass {
     public void feature(){
         for(Integer i=0;i<5;i++){
             System.debug('hello introduce new feature');
-            System.debug('welcome');
+            System.debug('welcome windows');
+        }
+
+        for(Integer k=0;k<5;k++){
+            System.debug('feature updated');
         }
     }
 }
