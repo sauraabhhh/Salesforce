@@ -21,4 +21,6 @@ public with sharing class FirstClass {
             System.debug('feature updated');
         }
     }
+
+    protected Integer a=10;
 }
